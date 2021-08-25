@@ -1,6 +1,8 @@
 # CarolinaBayDetection
 Datasets for paper on Carolina Bay Detection
 
+![CarolinaBayDetections](/Images/figure22.png)
+
 # Spreadsheets
 
 In the 'Spreadsheets' directory, you can find csvs containing the following:
@@ -21,4 +23,8 @@ model on the Atlantic Coastal Plain DEM tiled at various footprints and then run
 # Trained_Models
 
 In the 'Trained_Models' directory, you can find the trained Faster R-CNN, Mask R-CNN, and yolov5 models.
+
+# Atlantic Coastal Plain Digital Elevation Model
+
+Instructions on how to make the mosaic of the Atlantic Coastal Plain DEM as well as the data needed are available at: 
 
