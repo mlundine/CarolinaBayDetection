@@ -26,5 +26,7 @@ In the 'Trained_Models' directory, you can find the trained Faster R-CNN, Mask R
 
 # Atlantic Coastal Plain Digital Elevation Model
 
+![DEM_Area](/Images/figure4.png)
+
 Instructions on how to make the mosaic of the Atlantic Coastal Plain DEM as well as the data needed are available at: 
 
