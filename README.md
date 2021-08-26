@@ -20,7 +20,7 @@ Filtered Carolina Bay detections joined with morphometry, land-use, and surface 
 ![hydro](/Images/figure15.png)
 ![hydro2](/Images/figure17.png)
 
-Sedimentological data is available [here](github.com/mlundine/CarolinaBaySedimentology).
+Sedimentological data is available at [github.com/mlundine/CarolinaBaySedimentology](https://github.com/mlundine/CarolinaBaySedimentology).
 ![Sed](/Images/figure18.png)
 ![Sed2](/Images/figure19.png)
 
@@ -43,7 +43,7 @@ You can also find the shapefiles constructed from the tile/overlap experiment (i
 # Trained_Models
 
 In the 'Trained_Models' directory, you can find the trained Faster R-CNN (in Trained_Models/frcnn_inference_graph), Mask R-CNN (in Trained_Models/mrcnn_inference_graph), and yolov5 (in Trained_Models/best_carolinaBays) models.
-This repo has a GUI that you can use to run the models: [github.com/mlundine/tensorflow_app](github.com/mlundine/tensorflow_app)
+This repo has a GUI that you can use to run the models: [github.com/mlundine/tensorflow_app](https://github.com/mlundine/tensorflow_app)
 
 # Atlantic Coastal Plain Digital Elevation Model
 
