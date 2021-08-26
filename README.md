@@ -1,7 +1,7 @@
 # CarolinaBayDetection
 Datasets for paper on Carolina Bay Detection
 
-![CarolinaBayDetections](/Images/figure22.png)
+![CarolinaBayDetections](/ReadMe_Images/figure22.png)
 
 # Spreadsheets
 
@@ -23,7 +23,7 @@ Data for the principal component analysis on topo metrics.
 
 In the 'GIS_Files' directory, you can find shapefiles of Carolina Bay detections obtained through running the trained Faster R-CNN
 model on the Atlantic Coastal Plain DEM tiled at various footprints and then running them through the PAEK smoothing algorithm (in GIS_Files/Final_Detections).
-![detect_multi_scale](/Images/figure21.png)
+![detect_multi_scale](/ReadMe_Images/figure21.png)
 
 You can also find the unfiltered detections from various tile sizes as shapefiles (in GIS_Files/Multi_Scale_Unfiltered).
 
@@ -36,7 +36,7 @@ This repo has a GUI that you can use to run the models: [github.com/mlundine/ten
 
 # Atlantic Coastal Plain Digital Elevation Model
 
-![DEM_Area](/Images/figure4.png)
+![DEM_Area](/ReadMe_Images/figure4.png)
 
 Instructions on how to make the mosaic of the Atlantic Coastal Plain DEM as well as the data needed are available [here](https://drive.google.com/drive/folders/1Am4y4Bwo28dLGqFbcXSX_iT5JmSGuwLh?usp=sharing).
 
