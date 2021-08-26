@@ -8,27 +8,16 @@ Datasets for paper on Carolina Bay Detection
 In the 'Spreadsheets' directory, you can find csvs containing the following:
 
 Precision and recall data used to construct the PR curves.
-![pr](/Images/figure6.png)
 
 Data used for validation on the Delaware datasets (in Spreadsheets/Validation_Delaware)
-![dists](/Images/figure7.png)
-![one-to-one](/Images/figure8.png)
 
 Filtered Carolina Bay detections joined with morphometry, land-use, and surface hydrologic characteristics (in Spreadsheets/Full_ACP).
-![morph](/Images/figure12.png)
-![landuse](/Images/figure14.png)
-![hydro](/Images/figure15.png)
-![hydro2](/Images/figure17.png)
 
 Sedimentological data is available at [github.com/mlundine/CarolinaBaySedimentology](https://github.com/mlundine/CarolinaBaySedimentology).
-![Sed](/Images/figure18.png)
-![Sed2](/Images/figure19.png)
 
 Data for the tile size and overlap experiment (in Spreadsheets/Tile_Size_Overlap_Experiment).
-![TilesOverlap](/Images/figure9.png)
 
 Data for the principal component analysis on topo metrics.
-![pca](/Images/figure16.png)
 
 # GIS_Files
 
