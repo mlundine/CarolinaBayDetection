@@ -13,7 +13,7 @@ Data used for validation on the Delaware datasets (in Spreadsheets/Validation_De
 
 Filtered Carolina Bay detections joined with morphometry, land-use, and surface hydrologic characteristics (in Full_ACP).
 
-Sedimentological data is available ![here](github.com/mlundine/CarolinaBaySedimentology).
+Sedimentological data is available [here](github.com/mlundine/CarolinaBaySedimentology).
 
 Data for the tile size and overlap experiment (in Spreadsheets/Tile_Size_Overlap_Experiment).
 
@@ -34,5 +34,5 @@ In the 'Trained_Models' directory, you can find the trained Faster R-CNN (in Tra
 
 ![DEM_Area](/Images/figure4.png)
 
-Instructions on how to make the mosaic of the Atlantic Coastal Plain DEM as well as the data needed are available at ![here](https://drive.google.com/drive/folders/1Am4y4Bwo28dLGqFbcXSX_iT5JmSGuwLh?usp=sharing)
+Instructions on how to make the mosaic of the Atlantic Coastal Plain DEM as well as the data needed are available at [here](https://drive.google.com/drive/folders/1Am4y4Bwo28dLGqFbcXSX_iT5JmSGuwLh?usp=sharing)
 
